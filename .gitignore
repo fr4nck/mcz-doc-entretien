@@ -1,0 +1,8 @@
+# Originaux privés et fichiers de travail
+private/
+originaux/
+factures/
+*.pdf
+*.zip
+.DS_Store
+Thumbs.db
