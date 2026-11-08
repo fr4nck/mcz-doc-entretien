@@ -14,6 +14,22 @@ La notice DOC M1 décrit Maestro avec deux modules Wi-Fi [S11]. L'étiquette dé
 
 Maestro+ utilise notamment Bluetooth et Internet [S17]. Les noms **MCZ Maestro**, **Maestro MCZ**, **Maestro Upgrade** et **Maestro+** doivent être relevés exactement sur l'application utilisée. Une compatibilité annoncée pour une génération ne se transpose pas automatiquement aux autres : le plugin Jeedom mczremote exclut explicitement les appareils utilisant Maestro MCZ ou Maestro+ [S16].
 
+## Risques applicatifs et dependance au cloud (constat du 8 novembre 2026)
+
+Le proprietaire confirme conserver **deux applications iOS** : l'ancienne MCZ Maestro (bandeau inferieur de commandes absent ou inutilisable) et une application recente demandant un compte utilisateur. Le nom exact de la seconde sur le telephone et les versions installees n'ont pas encore ete releves. Aucun identifiant ni capture comportant des informations de connexion n'est publie.
+
+**Probleme d'interface documente :** des avis publics de l'ancienne application sur l'App Store signalent, des avril 2023 et iOS 16.4, la disparition du bandeau inferieur de commandes. Certains utilisateurs disent que les zones de clic restent actives, mais invisibles [S28]. Il est deconseille de commander a l'aveugle un appareil de chauffage pour le confirmer. Cette anomalie est documentee sur d'autres appareils ; l'etat de ce DOC est une observation du proprietaire.
+
+**Changement d'application :** l'App Store de **MCZ Maestro - Upgrade**, destinee a la famille Maestro classique (a distinguer de Maestro+), annonce des modes Internet et Wi-Fi Direct [S29]. MCZ Danemark a annonce une fermeture de l'ancienne application en avril 2024 et une migration vers Upgrade avec inscription par courriel [S30] ; cette annonce ne demontre pas a elle seule une suppression du mode direct local. La mention du RGPD sur ce site ne demontre pas une obligation reglementaire d'heberger les commandes dans un cloud.
+
+**Possibilite de fonctionner hors ligne :** une notice Maestro ancienne decrit le mode HOME Wi-Fi comme une connexion de point a point entre telephone et poele, sans routeur ni acces Internet, a courte distance, distincte du mode REMOTE Wi-Fi [S31]. Cette caracteristique est documentee pour la famille Maestro, mais doit etre verifiee sur le **DOC 7117008A** et sur chaque version d'application. Le fait que l'application Upgrade presente un mode Wi-Fi Direct ne prouve pas qu'elle peut etre ouverte ou re-authentifiee sans cloud.
+
+**Risques a distinguer :** (1) collecte ou fuite d'informations associees au compte et au poele ; (2) indisponibilite du service central, des applications ou de l'authentification ; (3) ordres distants non autorises ; (4) securite physique de combustion, qui depend aussi des controles internes et protections du poele. Aucune exploitation permettant de contourner ces protections n'a ete demontree dans cet audit. Une automatisation ne doit pas neutraliser les alarmes, thermistances, securites ou cycles d'arret.
+
+**Essai prioritaire, non realise :** conserver les deux applications sans les supprimer ; relever localement leurs noms et versions ; observer la disponibilite du poele en modes HOME/DIRECT et REMOTE ; tester en lecture seule et en presence d'une personne, avec Internet indisponible mais sans couper l'alimentation du poele ; documenter le retour des etats, les erreurs et les demandes d'authentification. Suspendre les essais de commande tant que le remontage de la piece tombee dans le brasier et les alarmes A01/A02 ne sont pas resolus. Aucun mot de passe, adresse MAC, QR code, numero de serie ni capture reseau brute ne doit etre publie.
+
+**Durcissement envisage, seulement apres verification locale :** proteger le Wi-Fi domestique, ne pas ouvrir de ports vers le poele, utiliser un compte unique et un mot de passe fort sur l'application actuelle, puis evaluer le blocage d'acces Internet du poele sans perdre son controle local. Ne pas appliquer de mise a jour de firmware dans le cadre de cet essai documentaire.
+
 ## Compatibilité par outil
 
 « Piste documentée » signifie qu'une voie est décrite par ses auteurs ; cela ne vaut pas validation sur ce DOC.
