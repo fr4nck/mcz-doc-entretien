@@ -52,3 +52,11 @@
 - Correction du choix de notice : le DOC 9 M1 à sortie arrière utilise `7118016`. Les références M1 du guide restent comparatives ; une notice DOC Comfort Air de l'ancienne famille a été repérée.
 - Fiche d'appareil ajoutée. Photo originale et numéro de série non publiés.
 - Aucun essai domotique ni validation des codes d'accès effectué.
+
+### Conservation des applications et risque cloud
+
+- Signalement des deux applications iOS conservees : l'ancienne MCZ Maestro (bandeau inferieur devenu inutilisable) et la nouvelle application avec compte utilisateur. Nom et versions exacts a relever localement.
+- Confirmation documentaire du bug de bandeau apparu chez plusieurs utilisateurs sous iOS 16.4 au printemps 2023, et de la mise a disposition de Maestro - Upgrade.
+- Mode Wi-Fi Direct/HOME sans Internet documente pour Maestro classique, mais **pas encore valide sur ce DOC**.
+- Audit de risque : confidentialite et disponibilite du cloud, commandes distantes non autorisees, securites physiques distinguees ; aucune faille exploitable n'est ici etablie.
+- Aucun test sur le poele, aucune modification des reseaux ou des parametres ; numero de serie, MAC, QR code et identifiants non publies.
