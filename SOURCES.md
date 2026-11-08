@@ -69,6 +69,17 @@ Audit du 8 novembre 2026 : [compatibilité, limites et premier essai proposé](d
 
 Les dates des projets sont issues des derniers commits des branches par défaut au moment de la consultation. L'absence de voie native Matter/Zigbee/Z-Wave dans cet audit est une limite des éléments trouvés, et non une preuve d'impossibilité technique.
 
+## Perennite des applications Maestro
+
+Sources ajoutees le 8 novembre 2026 pour l'audit des dependances applicatives. Voir [la section correspondante](docs/04-domotique.md#risques-applicatifs-et-dependance-au-cloud-constat-du-8-novembre-2026).
+
+| Repere | Source | Etablissement et limites |
+| --- | --- | --- |
+| S28 | [Apple App Store, ancienne application « MCZ Maestro »](https://apps.apple.com/fr/app/mcz-maestro/id1303663311), avis d'avril-mai 2023 | Plusieurs usagers signalent la disparition de la barre de commandes depuis iOS 16.4. Un avis rapporte que les zones de commandes sont encore touchables malgre l'absence d'icones. Temoignages, pas essai sur cet appareil. |
+| S29 | [Apple App Store, « MCZ Maestro - Upgrade »](https://apps.apple.com/fr/app/mcz-maestro-upgrade/id6450749440) | La description officielle mentionne Internet et Wi-Fi Direct pour les poeles de la famille Maestro. L'autonomie sans authentification cloud reste a tester. |
+| S30 | [MCZ Danemark, page de statut Maestro](https://mcz.dk/service/mcz-driftsstatus/) | Le distributeur annonce une fin de l'ancienne application en avril 2024, la migration vers Upgrade et un compte utilisateur. La page avance le RGPD pour expliquer ce changement, sans etablir que le RGPD impose un cloud. |
+| S31 | [Notice Maestro ancienne, transcription HTML](https://manualzz.com/doc/html/60394406/mcz-maestro-owner-manual) | Wi-Fi HOME de point a point sans routeur ni Internet et Wi-Fi REMOTE via Internet. Famille Maestro ; correspondance exacte a verifier sur le DOC 7117008A. |
+
 ## Identification du DOC photographié
 
 | Repère | Source | Portée |
