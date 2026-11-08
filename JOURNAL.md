@@ -37,3 +37,10 @@
 - Code `1234` documenté pour le menu Recettes de la notice DOC M1.
 - Sources constructeur et forums référencées, avec leurs limites et un signalement de refus de `0434` en 2025 sur un appareil non précisément identifié.
 - Aucun essai accepté ou refusé sur le DOC du propriétaire n'est encore rapporté ; aucun réglage du poêle n'a été modifié dans le cadre de cette mise à jour documentaire.
+
+### Audit basique de compatibilité domotique
+
+- Ajout d'une comparaison Home Assistant, Jeedom, openHAB, Node-RED et ponts vocaux, avec distinction local/cloud et générations Maestro.
+- Quatre projets consultés à des commits précis ; configuration MQTT d'exemple et dépendances anciennes relevées.
+- Limites de compatibilité du DOC conservées ; plan d'essai proposé en commençant par l'observation des états.
+- Recherche documentaire uniquement : aucune intégration installée, aucune connexion au poêle et aucune commande effectuée.

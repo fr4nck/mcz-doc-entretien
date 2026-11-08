@@ -47,6 +47,28 @@ La notice DOC M1 est également accessible en [PDF, partie 2](https://chemineeo.
 
 État au 8 novembre 2026 : aucun résultat d'essai des codes sur l'appareil du propriétaire n'a encore été communiqué.
 
+## Domotique
+
+Audit du 8 novembre 2026 : [compatibilité, limites et premier essai proposé](docs/04-domotique.md). Les dépôts ont été lus aux commits indiqués ci-dessous. Leurs fonctions annoncées n'ont pas été testées sur le DOC.
+
+| Repère | Source | Élément vérifié |
+| --- | --- | --- |
+| S11 | Notice DOC M1, partie 2, [page 4](https://www.manualslib.fr/manual/282569/Mcz-Doc-Comfort-Air-9-M1.html?page=4) | Interface Maestro et deux modules Wi-Fi. |
+| S12 | Chibald, [README au commit 4c4e551](https://github.com/Chibald/maestrogateway/blob/4c4e551907790bfcc80b6f8d78aea858090e8087/README.md) | Passerelle locale WebSocket/MQTT, réseau et prérequis. |
+| S13 | Chibald, [requirements.txt](https://github.com/Chibald/maestrogateway/blob/4c4e551907790bfcc80b6f8d78aea858090e8087/requirements.txt) et [docker-compose.yml](https://github.com/Chibald/maestrogateway/blob/4c4e551907790bfcc80b6f8d78aea858090e8087/docker-compose.yml) | Dépendances figées ; exemple avec broker public et authentification désactivée. |
+| S14 | roondar, [README au commit 17a0843](https://github.com/roondar/ha-mcz-maestro/blob/17a08433298218ce8c8f85dfc8f4dfeecddd7499/README.md) | Intégration HA locale directe, restriction à un contrôleur, validation déclarée sur Dynamic avec HA 2026.7.x. |
+| S15 | Robbe-B, [README](https://github.com/Robbe-B/maestro_mcz/blob/110416860bad4f6502de5bd783e709a8fd50fae7/README.md), [manifest.json](https://github.com/Robbe-B/maestro_mcz/blob/110416860bad4f6502de5bd783e709a8fd50fae7/custom_components/maestro_mcz/manifest.json) et [config_flow.py](https://github.com/Robbe-B/maestro_mcz/blob/110416860bad4f6502de5bd783e709a8fd50fae7/custom_components/maestro_mcz/config_flow.py) | Solution cloud ; version 1.0.5 ; connexion par compte et mot de passe. |
+| S16 | henribi, [documentation mczremote](https://henribi.github.io/jeedom-plugin-mczremote/fr_FR/stable/) et [dépôt au commit abbae78](https://github.com/henribi/jeedom-plugin-mczremote/tree/abbae78ee391f139dc7e83eb660793b61490cc41) | Jeedom, cloud et MQTT ; exclusion explicite de Maestro MCZ/Maestro+. |
+| S17 | MCZ, [technologie Maestro+](https://www.mcz.it/en/maestro-technology) et [tutoriel officiel en français](https://cdn.mczgroup.com/mcz2023/files/MAESTRO-TUTORIAL-FR.pdf) | Connexions Bluetooth et Internet pour Maestro+. |
+| S18 | Home Assistant, [MQTT climate](https://www.home-assistant.io/integrations/climate.mqtt/) | Possibilité de créer des entités de chauffage depuis MQTT ; ce n'est pas une certification MCZ. |
+| S19 | openHAB, [MQTT Things and Channels](https://www.openhab.org/addons/bindings/mqtt/) | Topics d'état et de commande, transformations de valeurs. |
+| S20 | Node-RED, [recettes MQTT](https://cookbook.nodered.org/mqtt/) | Réception, publication et messages JSON ; adaptation des flux nécessaire. |
+| S21 | Home Assistant, [HomeKit Bridge](https://www.home-assistant.io/integrations/homekit/) | Exposition d'entités compatibles à Apple Maison/Siri. |
+| S22 | Home Assistant, [Google Assistant](https://www.home-assistant.io/integrations/google_assistant/) | Pont vers Google Home/Assistant, avec configuration cloud ou manuelle. |
+| S23 | MCZ, [FAQ](https://www.mcz.it/fr-ch/service-support-poeles-cheminees/foire-aux-questions?country=fr_CH), rubriques Alexa et durée d'arrêt | Alexa annoncé pour Maestro+ ; ventilation maintenue pendant l'arrêt. |
+
+Les dates des projets sont issues des derniers commits des branches par défaut au moment de la consultation. L'absence de voie native Matter/Zigbee/Z-Wave dans cet audit est une limite des éléments trouvés, et non une preuve d'impossibilité technique.
+
 ## Règles éditoriales
 
 Les observations sur l'appareil suivi et les prescriptions des notices seront distinguées dans le texte. La chute d'une pièce dans le brasier est une observation ; son rôle exact et son lien avec une alarme restent à établir. Les couples de serrage, outils ou procédures spécifiques ne seront pas inventés.
