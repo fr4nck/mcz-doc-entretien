@@ -29,3 +29,11 @@
 - [ ] Intervention photographiée.
 - [ ] Légendes et gestes vérifiés sur l'appareil.
 - [ ] Relecture finale et choix de licence avant publication.
+
+## 8 novembre 2026
+
+- Ajout d'une fiche consacrée aux accès de l'application MCZ Maestro.
+- Code `0434` documenté comme accès au menu technique rapporté par des utilisateurs, à confirmer sur le DOC suivi.
+- Code `1234` documenté pour le menu Recettes de la notice DOC M1.
+- Sources constructeur et forums référencées, avec leurs limites et un signalement de refus de `0434` en 2025 sur un appareil non précisément identifié.
+- Aucun essai accepté ou refusé sur le DOC du propriétaire n'est encore rapporté ; aucun réglage du poêle n'a été modifié dans le cadre de cette mise à jour documentaire.

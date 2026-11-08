@@ -19,8 +19,9 @@ La notice de travail sert à préparer le guide. Elle ne suffit pas à identifie
 
 1. [Préparer et réaliser le nettoyage courant](docs/01-nettoyage-courant.md).
 2. [Photographier les étapes pour construire le guide](docs/02-photos.md).
-3. [Consulter les notices et références](SOURCES.md).
-4. [Suivre les observations de l'intervention](JOURNAL.md).
+3. [Accéder aux menus et distinguer les codes](docs/03-menus-et-codes.md).
+4. [Consulter les notices et références](SOURCES.md).
+5. [Suivre les observations de l'intervention](JOURNAL.md).
 
 ## Ce que le guide couvre
 
