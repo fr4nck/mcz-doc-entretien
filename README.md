@@ -2,20 +2,22 @@
 
 Un tutoriel illustré construit pendant le nettoyage d'un vrai MCZ DOC : identifier chaque pièce, montrer les gestes utiles et réussir le remontage.
 
-**Première trame — 7 novembre 2026.** Les photos de l'intervention et la référence complète de l'appareil restent à ajouter. Le tutoriel n'a pas encore été validé par une intervention complète.
+**Première trame — 7 novembre 2026.** L'étiquette a été relevée le 8 novembre : DOC Comfort Air, code 7117008A. Les photos de nettoyage et la correspondance exacte de notice restent à compléter. Le tutoriel n'a pas encore été validé par une intervention complète.
 
 ## L'appareil suivi
 
 | Information | État actuel |
 | --- | --- |
-| Marque et famille | MCZ DOC, indiquées par le propriétaire |
-| Version exacte et année | À relever sur la plaque signalétique |
-| Notice de travail | DOC Comfort Air 9 M1 / DOC Comfort Air 9 UP! M1, partie 2 |
-| Correspondance notice / appareil | À confirmer avant de décrire les démontages |
+| Marque et famille | MCZ DOC Comfort Air, étiquette photographiée |
+| Référence et mention de version | `7117008A` ; `V: 00` sur l'étiquette — version logicielle et année non établies |
+| Notice candidate | DOC Comfort Air, partie 2, génération antérieure au DOC 9 M1 |
+| Correspondance notice / appareil | Base `7117008` identifiée ; suffixe `A` et révision de notice à confirmer |
 
-La notice de travail sert à préparer le guide. Elle ne suffit pas à identifier la version présente chez le lecteur.
+Voir la [fiche d'identification](docs/00-appareil.md). La notice DOC 9 M1 utilisée au départ concerne une autre référence (`7118016` pour sa version à sortie arrière) : elle reste comparative et ne valide pas les démontages du `7117008A`.
 
 ## Lire le tutoriel
+
+Commencer par la [référence de l'appareil et le choix de notice](docs/00-appareil.md).
 
 1. [Préparer et réaliser le nettoyage courant](docs/01-nettoyage-courant.md).
 2. [Photographier les étapes pour construire le guide](docs/02-photos.md).

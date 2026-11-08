@@ -2,7 +2,7 @@
 
 [Retour à l'accueil](README.md)
 
-Sources consultées les 7 et 8 novembre 2026. Les liens ci-dessous renvoient aux documents de référence ; la correspondance de la notice M1 avec l'appareil suivi reste à confirmer.
+Sources consultées les 7 et 8 novembre 2026. Les liens ci-dessous renvoient aux documents de référence ; l'étiquette identifie désormais le DOC Comfort Air `7117008A`. La notice DOC 9 M1 initialement utilisée est conservée comme comparaison et non comme notice confirmée pour cet appareil.
 
 ## Notice MCZ DOC M1
 
@@ -68,6 +68,17 @@ Audit du 8 novembre 2026 : [compatibilité, limites et premier essai proposé](d
 | S23 | MCZ, [FAQ](https://www.mcz.it/fr-ch/service-support-poeles-cheminees/foire-aux-questions?country=fr_CH), rubriques Alexa et durée d'arrêt | Alexa annoncé pour Maestro+ ; ventilation maintenue pendant l'arrêt. |
 
 Les dates des projets sont issues des derniers commits des branches par défaut au moment de la consultation. L'absence de voie native Matter/Zigbee/Z-Wave dans cet audit est une limite des éléments trouvés, et non une preuve d'impossibilité technique.
+
+## Identification du DOC photographié
+
+| Repère | Source | Portée |
+| --- | --- | --- |
+| S24 | Étiquette photographiée communiquée par le propriétaire le 8 novembre 2026 | Code `7117008A`, libellé `ST. DOC C-AIR`, mention `V: 00`. Photo et numéro de série conservés hors du dépôt public. |
+| S25 | [Catalogue MCZ 2018, fiche DOC](https://verner-zentrallager.de/files/Preisliste-MCZ-2018--5-.pdf) | Le code de base `7117008` est associé au DOC Comfort Air. Cela ne date pas à lui seul la fabrication de l'exemplaire ni n'explique le suffixe A. |
+| S26 | [Notice DOC Comfort Air, partie 2, transcription du document](https://fixfr.com/doc/814005/mcz-doc-comfort-air-manuel-du-propri%C3%A9taire) | Notice candidate de l'ancienne famille : chapitres 12–13 pour Maestro et 34 pour le nettoyage. L'adéquation à la révision A doit encore être vérifiée. Le résumé automatique du site n'est pas utilisé comme prescription technique. |
+| S27 | [Notice DOC 9 M1, partie 1](https://chemineeo.fr/media/pdf/7b/51/9d/FR-Mode-d-emploi-et-d-installation-Po-le-granul-s-MCZ-DOC-Comfort-Air-9-UP-M1-I.pdf), rubrique sortie arrière, page imprimée 31 | Cette version M1 porte le code `7118016`, différent de celui photographié. |
+
+La mention V: 00 de l'étiquette n'est pas assimilée à une version de firmware. Aucune date de fabrication n'est déduite du numéro de série.
 
 ## Règles éditoriales
 

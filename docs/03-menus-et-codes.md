@@ -2,7 +2,7 @@
 
 [Retour à l'accueil](../README.md)
 
-Fiche documentaire du **8 novembre 2026**, destinée à l'application **MCZ Maestro**. La version exacte du DOC suivi et sa version logicielle restent à relever. Les codes ci-dessous n'ont pas encore été confirmés par un essai sur cet appareil.
+Fiche documentaire du **8 novembre 2026**, destinée à l'application **MCZ Maestro**. Le code produit est désormais relevé : `7117008A` (DOC Comfort Air) ; sa version logicielle reste à relever. La notice DOC 9 M1 citée pour les recettes concerne une autre référence : l'applicabilité de `1234` à cet exemplaire demeure à confirmer. Les codes ci-dessous n'ont pas encore été confirmés par un essai sur cet appareil.
 
 ## Quel code pour quel menu ?
 
@@ -39,7 +39,7 @@ Avant de modifier un réglage, photographier sa valeur d'origine. Cette fiche do
 
 | Information | État |
 | --- | --- |
-| Référence complète du DOC | À relever |
+| Référence complète du DOC | `7117008A`, libellé `ST. DOC C-AIR` ; voir [fiche](00-appareil.md) |
 | Version de l'application | À relever |
 | Version logicielle / base de données du poêle | À relever si affichée |
 | Accès au menu technique avec `0434` | Non testé ou résultat non communiqué |

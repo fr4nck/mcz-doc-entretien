@@ -2,7 +2,9 @@
 
 [Retour à l'accueil](../README.md)
 
-Cette première version s'appuie sur la notice DOC M1, partie 2, pages 52 à 54. La référence complète du poêle doit être confirmée avant de transformer cette trame en procédure illustrée spécifique. Les sources sont regroupées dans [SOURCES.md](../SOURCES.md).
+**Identification actualisée le 8 novembre 2026 :** l'étiquette indique DOC Comfort Air `7117008A`. Les références à la notice DOC 9 M1 ci-dessous concernent une autre variante et restent comparatives. Les gestes et accès propres au modèle doivent être confrontés à sa notice avant intervention. Voir la [fiche de l'appareil](00-appareil.md).
+
+Cette première version s'appuie sur la notice DOC M1, partie 2, pages 52 à 54. La référence de l'appareil suivi est désormais connue ; la notice propre à sa révision reste à confirmer. Les sources sont regroupées dans [SOURCES.md](../SOURCES.md).
 
 ## 1. Préparer l'intervention
 

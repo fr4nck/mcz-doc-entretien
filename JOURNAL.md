@@ -44,3 +44,11 @@
 - Quatre projets consultés à des commits précis ; configuration MQTT d'exemple et dépendances anciennes relevées.
 - Limites de compatibilité du DOC conservées ; plan d'essai proposé en commençant par l'observation des états.
 - Recherche documentaire uniquement : aucune intégration installée, aucune connexion au poêle et aucune commande effectuée.
+
+### Identification par l'étiquette
+
+- Étiquette reçue : `ST. DOC C-AIR`, code `7117008A`, mention `V: 00`.
+- Base `7117008` rapprochée du DOC Comfort Air du catalogue 2018. Date de fabrication et signification du suffixe A non établies.
+- Correction du choix de notice : le DOC 9 M1 à sortie arrière utilise `7118016`. Les références M1 du guide restent comparatives ; une notice DOC Comfort Air de l'ancienne famille a été repérée.
+- Fiche d'appareil ajoutée. Photo originale et numéro de série non publiés.
+- Aucun essai domotique ni validation des codes d'accès effectué.

@@ -10,7 +10,7 @@
 
 ## Identifier d'abord la génération
 
-La notice DOC M1 décrit Maestro avec deux modules Wi-Fi [S11]. Les captures communiquées sont cohérentes avec cette interface, mais ne donnent ni la référence complète ni une preuve du protocole accessible.
+La notice DOC M1 décrit Maestro avec deux modules Wi-Fi [S11]. L'étiquette désormais reçue indique DOC Comfort Air `7117008A`, famille `7117008` présente au catalogue 2018 [S24, S25]. Une notice de l'ancienne famille décrit également Maestro avec Wi-Fi local et distant [S26]. Cela renforce la piste Maestro classique, sans prouver l'état actuel des modules ou leur protocole accessible. La notice DOC 9 M1 citée initialement concerne une autre référence [S27].
 
 Maestro+ utilise notamment Bluetooth et Internet [S17]. Les noms **MCZ Maestro**, **Maestro MCZ**, **Maestro Upgrade** et **Maestro+** doivent être relevés exactement sur l'application utilisée. Une compatibilité annoncée pour une génération ne se transpose pas automatiquement aux autres : le plugin Jeedom mczremote exclut explicitement les appareils utilisant Maestro MCZ ou Maestro+ [S16].
 
@@ -57,7 +57,7 @@ La référence historique Anthony-55/maestro renvoie une erreur 404 lors de cett
 
 | Étape | Vérification | Résultat attendu |
 | --- | --- | --- |
-| 1. Identifier | Référence, version logicielle et nom exact de l'application ; Wi-Fi direct ou Bluetooth disponible | Choisir la bonne famille d'intégration. |
+| 1. Identifier | Référence relevée : `7117008A`. Restent la version logicielle, le nom exact de l'application et le mode de connexion disponible | Choisir la bonne famille d'intégration. |
 | 2. Choisir une seule liaison | Pour Maestro classique, examiner l'accès local ; tester la passerelle ou l'intégration directe séparément | Obtenir une connexion stable. |
 | 3. Observer d'abord | Comparer état, température, alarmes et disponibilité avec l'application, sans modifier les réglages | Identifier les valeurs fiables et les données absentes. La précédente indication de sonde Wi-Fi débranchée doit être clarifiée si elle est encore présente. |
 | 4. Vérifier la perte de réseau | Interrompre la liaison Internet ou réseau de test, sans couper l'alimentation du poêle | Détecter l'indisponibilité et éviter l'affichage de valeurs anciennes comme actuelles. |
