@@ -60,3 +60,10 @@
 - Mode Wi-Fi Direct/HOME sans Internet documente pour Maestro classique, mais **pas encore valide sur ce DOC**.
 - Audit de risque : confidentialite et disponibilite du cloud, commandes distantes non autorisees, securites physiques distinguees ; aucune faille exploitable n'est ici etablie.
 - Aucun test sur le poele, aucune modification des reseaux ou des parametres ; numero de serie, MAC, QR code et identifiants non publies.
+
+### Observation complementaire sur les applications (8 novembre 2026)
+
+- Le proprietaire signale que les deux applications fonctionnent et semblent utilisables en local comme a distance.
+- Cette distinction n'a pas ete verifiee par un test avec le Wi-Fi de l'iPhone desactive : **le fonctionnement effectif en 4G/5G reste incertain**.
+- Essai propose : desactiver le Wi-Fi de l'iPhone dans Reglages, conserver les donnees cellulaires, observer uniquement la remontee des etats dans chaque application, sans commande ni modification des reglages du poele.
+- Le succes de ce test etablirait une voie distante, mais non une exposition entrante directe du poele a Internet ni une vulnerabilite exploitable.
