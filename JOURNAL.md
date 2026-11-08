@@ -67,3 +67,12 @@
 - Cette distinction n'a pas ete verifiee par un test avec le Wi-Fi de l'iPhone desactive : **le fonctionnement effectif en 4G/5G reste incertain**.
 - Essai propose : desactiver le Wi-Fi de l'iPhone dans Reglages, conserver les donnees cellulaires, observer uniquement la remontee des etats dans chaque application, sans commande ni modification des reglages du poele.
 - Le succes de ce test etablirait une voie distante, mais non une exposition entrante directe du poele a Internet ni une vulnerabilite exploitable.
+
+### Audit de code et protocoles - complement du 8 novembre 2026
+
+- Le proprietaire confirme le fonctionnement des deux applications a la fois en local et a distance. Le test d'isolement des chemins de communication reste a faire ; ne pas redemander l'observation deja apportee.
+- Lecture du code de deux clients WebSocket locaux et d'un client communautaire pour l'ancien service distant ; comparaison avec une integration du cloud moderne utilisant HTTPS et jeton d'acces.
+- Identification d'un risque conditionnel de l'ancien canal distant (identifiants techniques et HTTP dans le code client), **sans preuve de faille exploitable du service actuel**.
+- Documentation du risque Wi-Fi HOME, d'un reseau temporaire de configuration ouvert et des secrets visibles dans la page de version logicielle.
+- Priorites P1/P2/P3, questions au fabricant et precaution de masquage detaillees dans [l'audit](docs/05-audit-cybersecurite.md).
+- Aucun contact avec le poele ni avec les services de commande MCZ ; aucun scan, changement de configuration, essai de code technique ou commande. Aucune donnee privee enregistree dans le depot.

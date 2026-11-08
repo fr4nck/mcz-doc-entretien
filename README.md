@@ -23,8 +23,9 @@ Commencer par la [référence de l'appareil et le choix de notice](docs/00-appar
 2. [Photographier les étapes pour construire le guide](docs/02-photos.md).
 3. [Accéder aux menus et distinguer les codes](docs/03-menus-et-codes.md).
 4. [Évaluer les possibilités domotiques](docs/04-domotique.md).
-5. [Consulter les notices et références](SOURCES.md).
-6. [Suivre les observations de l'intervention](JOURNAL.md).
+5. [Consulter l'audit de cybersécurité et les mesures de protection](docs/05-audit-cybersecurite.md).
+6. [Consulter les notices et références](SOURCES.md).
+7. [Suivre les observations de l'intervention](JOURNAL.md).
 
 ## Ce que le guide couvre
 

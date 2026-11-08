@@ -91,6 +91,21 @@ Sources ajoutees le 8 novembre 2026 pour l'audit des dependances applicatives. V
 
 La mention V: 00 de l'étiquette n'est pas assimilée à une version de firmware. Aucune date de fabrication n'est déduite du numéro de série.
 
+## Cybersecurite : sources supplementaires du 8 novembre 2026
+
+| Repere | Source | Portee et limite |
+| --- | --- | --- |
+| S32 | [Ancienne notice DOC Comfort Air - transcription](https://fixfr.com/doc/814005/mcz-doc-comfort-air-manuel-du-propri%C3%A9taire) | Description de la famille DOC classique ; correspondance exacte avec revision A du poele non validee. |
+| S34 | [Gladys - integration MCZ Maestro](https://gladysassistant.com/docs/integrations/external/mcz-maestro/) | Distinction entre pilotage cloud et WebSocket Wi-Fi local pour Maestro premiere generation ; non teste sur notre DOC. |
+| S35 | [davide-travaglini/node-red-contrib-mcz, source au commit 2cf3478 du 24 octobre 2026](https://github.com/davide-travaglini/node-red-contrib-mcz/blob/2cf3478322ceea58e63ebfec54ab1f9edbd87e61/nodes/mcz-config.js) | Client communautaire de l'ancien canal distant ; endpoint HTTP, association utilisant numero de serie et MAC ; aucun jeton utilisateur visible dans le client. La securite reelle du serveur n'a pas ete testee. |
+| S36 | [Home Assistant Community, journal Socket.IO d'avril 2023](https://community.home-assistant.io/t/control-mcz-maestro-pellet-stove-via-hacore-trough-mqtt/238423?page=9) | Trace historique HTTP/WebSocket comportant identifiants techniques masques ; ne demontre pas l'etat du service actuel. |
+| S37 | [Robbe-B/maestro_mcz - controleur cloud](https://github.com/Robbe-B/maestro_mcz/blob/main/custom_components/maestro_mcz/maestro/controller/maestro_controller.py), [configuration HTTPS](https://github.com/Robbe-B/maestro_mcz/blob/main/custom_components/maestro_mcz/maestro/controller/const.py) | Login utilisateur avec mot de passe, jeton de session et URL HTTPS dans le client communautaire ; aucune preuve d'audit du serveur. |
+| S38 | [Manuel MCZ Maestro, page 11](https://www.gebruikershandleiding.com/MCZ-MAESTRO/preview-handleiding-871608.html?page=0011) | Reseau ouvert temporaire de configuration du module distant ; disparait apres parametrage d'apres la notice. Mode actif sur notre DOC inconnu. |
+| S39 | [Notice Maestro M1, page 40, logiciel et identifiants](https://www.boschmarin.com/cdnassets/productAttachments/Manual-uso-e-instalacion-WALL-ANGLE-Maestro-ingles-parte-2.pdf) | Ecran des versions avec Wi-Fi HOME password, MAC distante et S/N dans la meme vue ; modele different, precaution de confidentialite generale. |
+| S40 | [roondar/ha-mcz-maestro - configuration](https://github.com/roondar/ha-mcz-maestro/blob/main/custom_components/mcz_maestro/config_flow.py) et [client](https://github.com/roondar/ha-mcz-maestro/blob/main/custom_components/mcz_maestro/api.py) | Un client tiers ouvre le canal WebSocket par hote/port sans identifiant applicatif additionnel visible ; module du DOC non teste. |
+
+Recherche publique non exhaustive : aucune CVE specifique au `7117008A` n'a ete authentifiee dans ce dossier. Ne pas interpreter ceci comme une preuve d'absence de vulnerabilite.
+
 ## Règles éditoriales
 
 Les observations sur l'appareil suivi et les prescriptions des notices seront distinguées dans le texte. La chute d'une pièce dans le brasier est une observation ; son rôle exact et son lien avec une alarme restent à établir. Les couples de serrage, outils ou procédures spécifiques ne seront pas inventés.
