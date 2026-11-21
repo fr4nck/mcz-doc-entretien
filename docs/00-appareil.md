@@ -21,6 +21,10 @@ La notice initialement citée pour le **DOC Comfort Air 9 M1** indique un code d
 
 Une [notice DOC Comfort Air, partie 2](https://fixfr.com/doc/814005/mcz-doc-comfort-air-manuel-du-propri%C3%A9taire), de l'ancienne famille, a été repérée [S26]. Sa correspondance avec la révision photographiée reste à vérifier. Son texte décrit Maestro avec Wi-Fi local et distant ; les fonctions présentes aujourd'hui sur l'appareil restent à contrôler.
 
+## Brasier : reference documentee
+
+Brasier en fonte **`4130170030100`**, repere 12 de la nomenclature de l'ancien DOC Comfort Air [S42, S43]. Le creuset photographie porte un marquage de fonderie partiellement lisible, a ne pas confondre avec la reference commerciale. Compatibilite dimensionnelle avec `7117008A` a confirmer avant achat ; aucune cassure etablie par photo.
+
 ## Conséquences pour le guide
 
 - Les instructions M1 déjà réunies gardent une valeur comparative.
