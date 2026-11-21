@@ -37,6 +37,12 @@ Trois photographies du **creuset / brasier**, recues dans la conversation, montr
 - **Avant toute remise en service :** decrasser doucement sans agrandir les trous ni forcer sur le metal ; controler la piece deposee recto/verso, son assise dans le logement et la piece d'arrivee des granules. Si fissure ou deformation apparente apres nettoyage, ou si la piece tombe ne peut pas etre identifiee/refixee correctement, faire controler l'ensemble avant allumage.
 - **Photos manquantes :** brasier nettoye de dessus et de dessous, trous traversants vus a contre-jour, logement nettoye, puis position finale dans le foyer ; pas de publication des images sans autorisation.
 
+### Etat apres decrassage : 21 novembre 2026
+
+Cinq nouvelles photos, privees, montrent le creuset de dessus, de cote et de dessous. Le machefer important a disparu, et la majorite des perforations du fond et des parois semble degagee. Quelques residus sombres et zones orange compatibles avec une oxydation superficielle demeurent. Aucune fissure traversante ni deformation importante n'apparait clairement, **mais les photos ne certifient pas l'integrite de la fonte**.
+
+Avant toute remise en service, verifier le logement, la bonne assise du creuset et la piece tombee precedemment pres de l'arrivee des granules ; l'historique A01/A02 n'a pas de cause demontree. Reference documentaire du brasier : **`4130170030100`**, repere 12 [S42, S43], sous reserve de compatibilite avec `7117008A`.
+
 ## 3. Nettoyer le brasier
 
 La notice de l'ancienne famille DOC Comfort Air prévoit d'extraire complètement le brasier afin de nettoyer les trous et la grille du fond [S41]. La notice M1 donne une consigne comparable mais concerne une autre variante [S1, S2]. Retirer les cendres et les incrustations qui gênent le passage de l'air avec une brosse ou un pinceau, sans forcer sur la pièce ni élargir les perforations. Vérifier l'état du métal une fois les dépôts retirés ; si une fissure, une déformation ou un percement anormal est constaté, ne pas remettre l'appareil en service avant contrôle.
