@@ -106,6 +106,12 @@ La mention V: 00 de l'étiquette n'est pas assimilée à une version de firmware
 
 Recherche publique non exhaustive : aucune CVE specifique au `7117008A` n'a ete authentifiee dans ce dossier. Ne pas interpreter ceci comme une preuve d'absence de vulnerabilite.
 
+## Nettoyage du brasier : ancien DOC Comfort Air
+
+| Repere | Source | Portee |
+| --- | --- | --- |
+| S41 | [MCZ DOC Comfort Air, partie 2, chapitre 34, pages imprimees 50-51 (transcription française)](https://www.scribd.com/document/760360651/Mode-d-Emploi-MCZ-DOC-Confort-Air) | Retrait du brasier, elimination des cendres et incrustations et nettoyage de tous les trous, controle du bon positionnement ; document de l'ancienne famille, correspondance avec le code `7117008A` encore a verifier. |
+
 ## Règles éditoriales
 
 Les observations sur l'appareil suivi et les prescriptions des notices seront distinguées dans le texte. La chute d'une pièce dans le brasier est une observation ; son rôle exact et son lien avec une alarme restent à établir. Les couples de serrage, outils ou procédures spécifiques ne seront pas inventés.

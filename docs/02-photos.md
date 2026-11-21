@@ -4,6 +4,8 @@
 
 Prendre les photos de manipulation sur un appareil complètement froid et débranché. Pour le guide public, conserver les indications de modèle et de version utiles ; masquer les numéros de série, les codes QR de connexion et les mots de passe avant publication. Les originaux privés restent hors du dossier publié.
 
+**21 novembre 2026 :** trois vues du brasier extrait ont ete recues en prive (generale, paroi arriere, vue oblique). Les originaux n'ont pas ete ajoutes au depot public. Les vues sous le brasier, apres decrassage et dans son logement restent necessaires pour une legende technique fiable. Aucune cassure du metal n'a ete confirmee sur ces vues.
+
 ## Série de photos
 
 | Fichier envisagé | Ce qu'il doit montrer | Utilité |

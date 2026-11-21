@@ -76,3 +76,12 @@
 - Documentation du risque Wi-Fi HOME, d'un reseau temporaire de configuration ouvert et des secrets visibles dans la page de version logicielle.
 - Priorites P1/P2/P3, questions au fabricant et precaution de masquage detaillees dans [l'audit](docs/05-audit-cybersecurite.md).
 - Aucun contact avec le poele ni avec les services de commande MCZ ; aucun scan, changement de configuration, essai de code technique ou commande. Aucune donnee privee enregistree dans le depot.
+
+## 21 novembre 2026 - Brasier photographie
+
+- Reception de trois vues du brasier extrait, **non publiees** : vue generale, gros plan du fond et de la paroi arriere, vue oblique.
+- Depots de combustion abondants et trous visiblement encrasses ; fissure ou alteration du metal **non etablie** sous les depots.
+- Comparaison au chapitre 34, pages 50-51 de la notice DOC Comfort Air ancienne [S41], en conservant l'incertitude de revision A.
+- Nettoyage, contre-vues du dessous et controle du logement a documenter ; pas de reallumage si doute sur une fissure, le positionnement du brasier ou la piece tombee precedemment.
+- Les alarmes A01/A02 sont conservees comme observation anterieure, sans attribution causale certaine.
+- Aucune intervention physique, commande, mise a jour de firmware ou publication des photos effectuee par l'assistant.

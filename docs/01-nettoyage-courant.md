@@ -26,9 +26,20 @@ Prendre une vue du foyer avant de déplacer une pièce, puis une vue rapprochée
 
 Lors de la préparation du guide, une pièce appelée « clapet » par le propriétaire était tombée dans le brasier pendant l'aspiration. Son nom technique, sa fonction et son montage restent à identifier : cette observation ne constitue pas une procédure de démontage.
 
+## Observation du 21 novembre 2026 : brasier extrait, avant nettoyage
+
+Trois photographies du **creuset / brasier**, recues dans la conversation, montrent une vue generale du fond, un gros plan de la paroi arriere et une vue oblique des parois. Photos originales **conservees hors du depot public** ; leur diffusion requiert un accord distinct.
+
+- **Observation visuelle :** depots de cendres et de combustion importants dans les angles et sur la paroi arriere ; plusieurs perforations du fond et des cotes sont visibles, certaines semblent partiellement encrassees.
+- **Incertain :** la couche de depots ne permet pas de confirmer ou d'exclure une fissure, une deformation, un percement non d'origine ou une corrosion du metal. L'encoche visible sur le bord avant n'est pas classee comme une casse en l'absence de comparaison avec la geometrie d'origine.
+- **Contexte :** des alarmes A01/A02 avaient ete signalees, mais aucun lien causal entre ces depots et les alarmes ne peut etre etabli par des photographies seules. La petite piece tombee precedemment dans le foyer ne peut pas etre identifiee sur ces vues du brasier.
+- **Notice :** la notice candidate de l'ancienne famille DOC Comfort Air, chapitre 34, pages 50-51 [S41], demande de retirer le brasier pour nettoyer les trous et la grille du fond, a froid, hors tension, puis de le replacer correctement. La concordance complete avec le suffixe `7117008A` reste a confirmer.
+- **Avant toute remise en service :** decrasser doucement sans agrandir les trous ni forcer sur le metal ; controler la piece deposee recto/verso, son assise dans le logement et la piece d'arrivee des granules. Si fissure ou deformation apparente apres nettoyage, ou si la piece tombe ne peut pas etre identifiee/refixee correctement, faire controler l'ensemble avant allumage.
+- **Photos manquantes :** brasier nettoye de dessus et de dessous, trous traversants vus a contre-jour, logement nettoye, puis position finale dans le foyer ; pas de publication des images sans autorisation.
+
 ## 3. Nettoyer le brasier
 
-La notice M1 prévoit de sortir le brasier de son logement afin de nettoyer tous les orifices et la grille du fond. Retirer les cendres et les incrustations qui gênent le passage de l'air, avec le pinceau et les moyens prévus par la notice de la version concernée [S1, S2].
+La notice de l'ancienne famille DOC Comfort Air prévoit d'extraire complètement le brasier afin de nettoyer les trous et la grille du fond [S41]. La notice M1 donne une consigne comparable mais concerne une autre variante [S1, S2]. Retirer les cendres et les incrustations qui gênent le passage de l'air avec une brosse ou un pinceau, sans forcer sur la pièce ni élargir les perforations. Vérifier l'état du métal une fois les dépôts retirés ; si une fissure, une déformation ou un percement anormal est constaté, ne pas remettre l'appareil en service avant contrôle.
 
 **Contrôle au remontage :** le brasier doit retrouver sa position correcte et reposer correctement dans son logement [S2]. La photo finale montrera son orientation et son assise.
 
