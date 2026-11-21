@@ -6,6 +6,8 @@ Prendre les photos de manipulation sur un appareil complètement froid et débra
 
 **21 novembre 2026 :** trois vues du brasier extrait ont ete recues en prive (generale, paroi arriere, vue oblique). Les originaux n'ont pas ete ajoutes au depot public. Les vues sous le brasier, apres decrassage et dans son logement restent necessaires pour une legende technique fiable. Aucune cassure du metal n'a ete confirmee sur ces vues.
 
+**Complement du 21 novembre 2026 :** cinq nouvelles photos du creuset apres decrassage (interieur, cotes et dessous) ont ete recues. Les trous paraissent majoritairement debouches et un marquage de fonderie est visible, mais partiellement lisible. Les photos d'avant et d'apres nettoyage restent privees, hors du depot public. Reste a documenter le logement du creuset, la piece de chute des granules et le remontage final.
+
 ## Série de photos
 
 | Fichier envisagé | Ce qu'il doit montrer | Utilité |
