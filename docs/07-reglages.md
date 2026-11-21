@@ -69,6 +69,8 @@ Dans le cas suivi :
 - **Version logiciel** (chapitre 29) et **INFO** (chapitre 30) : rubriques pertinentes pour observer la version carte/Wi-Fi/base de donnees, les etats et les alarmes, sans enregistrer de changement.
 - Le code `0434` est rapporte dans des forums pour d'autres poeles Maestro mais non valide sur ce `7117008A`. Ne pas l'utiliser pour rechercher des changements de securites.
 
+**Nouveau le 21 novembre 2026 :** des valeurs ont ete relevees dans la rubrique `SPEED 'FAN SMOKE` du menu technique, avec les cinq consignes P1-P5 et les phases d'allumage, d'arret et de nettoyage. Voir [le releve distinct de l'extracteur de fumees](08-releve-extracteur-fumees.md). Ce sont des consignes observees, **non des valeurs d'usine certifiees ni des regimes de rotation mesures**.
+
 ## Releves utiles sur l'exemplaire (sans ecriture)
 
 | Champ a relever hors secrets | Etat |

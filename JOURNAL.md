@@ -107,3 +107,11 @@
 - L'incoherence d'unite dans la description de l'hysteresis ECO a ete consignée sans correction inventee.
 - Les depots de machefer ne suffisent pas pour recommander une correction de recette ; rappel des verifications mecaniques, de l'arrivee d'air, du combustible, des joints et du circuit des fumees, ainsi que des alarmes A01/A02.
 - Pas de code teste, aucun parametre releve sur l'appareil, aucune commande ou modification de combustion.
+
+## 21 novembre 2026 - Lecture des consignes de l'extracteur de fumees
+
+- Deux captures d'ecran du menu technique `SPEED 'FAN SMOKE` recues, **sauvegardees en prive** (une capture par page d'interface). Surnom de l'appareil non publie.
+- Releve sans changement : `PHASE CLEAN` 2500 froid/chaud ; `LOAD` et `START 1/2` 1800 ; stabilisation 1700 ; puissances P1-P5 1000/1125/1250/1375/1500 ; extinction 2000 ; refroidissement 1000 ; nettoyage LOW/HIGH 2300/2500 ; RANGE TRIAC MIN/MAX 10/115 ; aucun chiffre visible pour `SEUIL TR/MIN NETT. MEC.`.
+- Documentation complete dans [`docs/08-releve-extracteur-fumees.md`](docs/08-releve-extracteur-fumees.md). Ces valeurs sont des champs de consigne affiches, **non verifiees comme reglages d'usine**.
+- La presence d'une interface de modification technique est etablie, mais non son accessibilite a un tiers ni une vulnerabilite exploitable.
+- Aucune commande au poele, aucune modification des vitesses et aucun essai de combustion par l'assistant.

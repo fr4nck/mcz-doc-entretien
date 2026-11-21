@@ -126,6 +126,8 @@ Recherche publique non exhaustive : aucune CVE specifique au `7117008A` n'a ete 
 | S44 | [DOC Comfort Air, partie 2, transcription Fixfr](https://fixfr.com/doc/814005/mcz-doc-comfort-air-manuel-du-propri%C3%A9taire), chap. 18-30 et 35 | Modes AUTO/MAN, ventilateurs et SILENT, ECO STOP, CHRONO, recettes PELLET/AIR, menu technique, INFO, causes possibles de defaut de combustion. Transcription d'une notice **sans suffixe M1** ; adequation a la revision `7117008A` non encore prouvee. |
 | S45 | [DOC Confort Air, reproduction texte sur Scribd](https://www.scribd.com/document/760360651/Mode-d-Emploi-MCZ-DOC-Confort-Air), chap. 18-30 et 35 | Deuxieme source de consultation du meme contenu ; corroboration des plages de recettes. Attention a un probleme de transcription typographique des nombres positifs dans certaines listes. Ne pas considerer comme preuve independante de version. |
 
+| S46 | [MCZ DOC Comfort Air ancien, chapitre 32 « Alarmes », paragraphes sur le tirage et la modification des tr/min](https://fixfr.com/doc/814005/mcz-doc-comfort-air-manuel-du-propri%C3%A9taire) | Le constructeur distingue correction globale en pourcentage de la recette AIR et ajustements des tr/min du menu technique ; il prevoit un controle de depression et reserve ces reglages au personnel autorise. Cette notice ne publie pas de tableau de consignes certifie pour la revision `7117008A`. |
+
 **Incoherence documentaire notable :** ECO STOP nomme correctement l'hysteresis en degres Celsius, mais indique plus bas « 2 a 5 minutes ». Il est impossible d'attribuer la bonne unite a cette plage a partir de ce texte seul ; pas de parametre conseille sur cette base.
 
 ## Règles éditoriales
