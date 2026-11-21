@@ -8,6 +8,8 @@ Prendre les photos de manipulation sur un appareil complètement froid et débra
 
 **Complement du 21 novembre 2026 :** cinq nouvelles photos du creuset apres decrassage (interieur, cotes et dessous) ont ete recues. Les trous paraissent majoritairement debouches et un marquage de fonderie est visible, mais partiellement lisible. Les photos d'avant et d'apres nettoyage restent privees, hors du depot public. Reste a documenter le logement du creuset, la piece de chute des granules et le remontage final.
 
+La [serie avant/apres de huit photos du 21 novembre 2026](06-brasier-photos-2026-11-21.md) est inventoriee avec empreintes SHA-256. Les originaux sont archives sur une Page privee et ne figurent pas encore dans les fichiers binaires de ce depot.
+
 ## Série de photos
 
 | Fichier envisagé | Ce qu'il doit montrer | Utilité |

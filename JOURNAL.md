@@ -93,3 +93,9 @@
 - Nettoyage, contre-vues du dessous et controle du logement a documenter ; pas de reallumage si doute sur une fissure, le positionnement du brasier ou la piece tombee precedemment.
 - Les alarmes A01/A02 sont conservees comme observation anterieure, sans attribution causale certaine.
 - Aucune intervention physique, commande, mise a jour de firmware ou publication des photos effectuee par l'assistant.
+
+### 21 novembre 2026 - Sauvegarde des images du brasier
+
+- Les **8 originaux** de la serie avant/apres ont ete archives dans une [page privee](https://chatgpt.com/space/page_71a5cbe16810819182d5ffaf137c559b) : 3 avant et 5 apres. Une archive ZIP verifiee contient les 8 JPEG, les planches contacts, l'inventaire et les SHA-256.
+- Inventaire ajoute au depot public dans [`docs/06-brasier-photos-2026-11-21.md`](docs/06-brasier-photos-2026-11-21.md) ; **aucun JPEG original n'est televerse sur GitHub** a ce stade.
+- Le marquage de fonderie sous le creuset est photographie mais non lisible integralement. Le numero de serie du poele est absent des huit cliches et n'est ni invente ni publie.
