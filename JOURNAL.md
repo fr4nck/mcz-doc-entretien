@@ -77,6 +77,14 @@
 - Priorites P1/P2/P3, questions au fabricant et precaution de masquage detaillees dans [l'audit](docs/05-audit-cybersecurite.md).
 - Aucun contact avec le poele ni avec les services de commande MCZ ; aucun scan, changement de configuration, essai de code technique ou commande. Aucune donnee privee enregistree dans le depot.
 
+## 21 novembre 2026 - Controle complementaire du brasier
+
+- Cinq photographies privees supplementaires apres decrassage : interieur, parois, dessous et marquage moule.
+- Depots importants retires ; perforations majoritairement ouvertes. Traces orange et sombres residuelles ; pas de fissure traversante evidente, mais aucun controle physique de la fonte.
+- Reference de remplacement du brasier DOC Comfort Air ancien identifiee : **`4130170030100`**, repere 12 [S42, S43]. Ne pas assimiler directement le marquage moule a cette reference ; compatibilite revision A a confirmer.
+- Verifier la position du brasier et la piece tombee a l'arrivee des pellets avant remise en service ; anciennes alarmes A01/A02 non expliquees.
+- Aucune photographie personnelle publiee ni test de remise en route realise par l'assistant.
+
 ## 21 novembre 2026 - Brasier photographie
 
 - Reception de trois vues du brasier extrait, **non publiees** : vue generale, gros plan du fond et de la paroi arriere, vue oblique.
