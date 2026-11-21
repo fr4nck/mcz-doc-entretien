@@ -26,7 +26,8 @@ Commencer par la [référence de l'appareil et le choix de notice](docs/00-appar
 5. [Consulter l'audit de cybersécurité et les mesures de protection](docs/05-audit-cybersecurite.md).
 6. [Consulter les notices et références](SOURCES.md).
 7. [Voir l'inventaire des huit photos du brasier (avant/apres)](docs/06-brasier-photos-2026-11-21.md).
-8. [Suivre les observations de l'intervention](JOURNAL.md).
+8. [Étudier les réglages du DOC Comfort Air ancienne génération](docs/07-reglages.md).
+9. [Suivre les observations de l'intervention](JOURNAL.md).
 
 ## Ce que le guide couvre
 

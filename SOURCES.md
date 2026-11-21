@@ -119,6 +119,15 @@ Recherche publique non exhaustive : aucune CVE specifique au `7117008A` n'a ete 
 | S42 | [Pieces Express, nomenclature DOC Comfort AIR](https://www.piecesxpress.com/nomenclature-17588-2-pieces-detachees-poele-mcz-red-doc-comfort-air.htm) | Brasero en fonte, reference **`4130170030100`**, repere 12. Correspondance dimensionnelle a verifier. |
 | S43 | [Energies Bois Distribution, brasero DOC Comfort Air](https://energies-bois-distribution.com/produit/brasero-en-fonte-mcz-doc-comfort-air/) | Confirme la reference commerciale et conseille de confirmer la variante avant achat. |
 
+## Reglages de l'ancienne generation DOC Comfort Air
+
+| Repere | Source | Portee |
+| --- | --- | --- |
+| S44 | [DOC Comfort Air, partie 2, transcription Fixfr](https://fixfr.com/doc/814005/mcz-doc-comfort-air-manuel-du-propri%C3%A9taire), chap. 18-30 et 35 | Modes AUTO/MAN, ventilateurs et SILENT, ECO STOP, CHRONO, recettes PELLET/AIR, menu technique, INFO, causes possibles de defaut de combustion. Transcription d'une notice **sans suffixe M1** ; adequation a la revision `7117008A` non encore prouvee. |
+| S45 | [DOC Confort Air, reproduction texte sur Scribd](https://www.scribd.com/document/760360651/Mode-d-Emploi-MCZ-DOC-Confort-Air), chap. 18-30 et 35 | Deuxieme source de consultation du meme contenu ; corroboration des plages de recettes. Attention a un probleme de transcription typographique des nombres positifs dans certaines listes. Ne pas considerer comme preuve independante de version. |
+
+**Incoherence documentaire notable :** ECO STOP nomme correctement l'hysteresis en degres Celsius, mais indique plus bas « 2 a 5 minutes ». Il est impossible d'attribuer la bonne unite a cette plage a partir de ce texte seul ; pas de parametre conseille sur cette base.
+
 ## Règles éditoriales
 
 Les observations sur l'appareil suivi et les prescriptions des notices seront distinguées dans le texte. La chute d'une pièce dans le brasier est une observation ; son rôle exact et son lien avec une alarme restent à établir. Les couples de serrage, outils ou procédures spécifiques ne seront pas inventés.

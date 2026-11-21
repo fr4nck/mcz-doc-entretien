@@ -29,6 +29,8 @@ Des confirmations existent sur des appareils Maestro d'autres modèles [S9]. Un 
 
 Si le code est refusé, relever la référence du poêle, la version de l'application, les informations logicielles disponibles et le message affiché avant de rechercher une procédure adaptée.
 
+**Documentation complémentaire du 21 novembre 2026 :** la [notice DOC Comfort Air ancienne](07-reglages.md) décrit les recettes Pellet et Air ainsi que les menus usuels, sans confirmer l'emploi du code `1234` sur la révision `7117008A`. Les valeurs documentaires ne sont pas des consignes de correction du mâchefer ; ne pas changer les réglages de combustion sans diagnostic.
+
 ## Accéder aux recettes
 
 Dans la notice DOC M1 : **Configurations → Recettes → `1234`** [S7]. Les intitulés peuvent dépendre de la version de l'interface.

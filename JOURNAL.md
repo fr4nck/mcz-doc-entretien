@@ -99,3 +99,11 @@
 - Les **8 originaux** de la serie avant/apres ont ete archives dans une [page privee](https://chatgpt.com/space/page_71a5cbe16810819182d5ffaf137c559b) : 3 avant et 5 apres. Une archive ZIP verifiee contient les 8 JPEG, les planches contacts, l'inventaire et les SHA-256.
 - Inventaire ajoute au depot public dans [`docs/06-brasier-photos-2026-11-21.md`](docs/06-brasier-photos-2026-11-21.md) ; **aucun JPEG original n'est televerse sur GitHub** a ce stade.
 - Le marquage de fonderie sous le creuset est photographie mais non lisible integralement. Le numero de serie du poele est absent des huit cliches et n'est ni invente ni publie.
+
+## 21 novembre 2026 - Etude des reglages de l'ancienne generation
+
+- Consultation de la notice **DOC Comfort Air**, partie 2, distincte de la notice M1 deja ecartée pour l'identification `7117008A`.
+- Ajout de [`docs/07-reglages.md`](docs/07-reglages.md) : commandes utilisateur, ventilation, ECO STOP, CHRONO, recette pellets/air et menu technique, avec plages et limites de compatibilite.
+- L'incoherence d'unite dans la description de l'hysteresis ECO a ete consignée sans correction inventee.
+- Les depots de machefer ne suffisent pas pour recommander une correction de recette ; rappel des verifications mecaniques, de l'arrivee d'air, du combustible, des joints et du circuit des fumees, ainsi que des alarmes A01/A02.
+- Pas de code teste, aucun parametre releve sur l'appareil, aucune commande ou modification de combustion.
